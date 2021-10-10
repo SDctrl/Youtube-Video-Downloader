@@ -1,0 +1,26 @@
+.h2 {
+  font-size: 70 px;
+  color: black;
+  flex:34;
+  position: center;
+}
+
+.subbtn {
+border-radius: 30px;
+display: flex;
+width:100%;
+height:100%;
+flex-direction:column;
+align-items:center;
+}
+
+.table{
+border-collapse: collapse;
+margin: 25 px;
+padding: 45 px;
+}
+
+
+
+ 
+
